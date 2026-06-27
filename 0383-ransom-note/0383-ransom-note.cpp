@@ -6,7 +6,9 @@ public:
         for(int i=0;i<b.length();i++) mp[b[i]]++; 
     
         for(int i=0;i<a.length();i++){
-            if (mp[a[i]]==0) return false;
+            //har character b ka bs ek baar use karna hai agar string a ka character
+            //b mein nhi hai toh fir sidha false varna uske frequency ko ghate jao
+            if (mp[a[i]]==0) return false; 
            else mp[a[i]]--;
         }
         return true;
