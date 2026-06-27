@@ -28,16 +28,18 @@ public:
                 j=j->next;
             }
         }
-        while(j!=NULL){
-            temp->next=j;
-            temp=j;
-            j=j->next;
-        }
-         while(i!=NULL){
-            temp->next=i;
-            temp=i;
-            i=i->next;
-        }
+        if (i==NULL) temp->next=j;
+        else temp->next=i;
+        // while(j!=NULL){
+        //     temp->next=j;
+        //     temp=j;
+        //     j=j->next;
+        // }
+        //  while(i!=NULL){
+        //     temp->next=i;
+        //     temp=i;
+        //     i=i->next;
+        // }
         return dummy->next;
 
         
