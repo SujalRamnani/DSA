@@ -1,9 +1,7 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        map<char,int> mp;
-        sort(t.begin(),t.end());
-        sort(s.begin(),s.end());
+        unordered_map<char,int> mp;
         if (s.length()!=t.length()) return false;
         for(int i=0;i<s.length();i++) mp[s[i]]++;
         for(int i=0;i<t.length();i++){
