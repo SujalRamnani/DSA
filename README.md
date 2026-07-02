@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SujalRamnani/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SujalRamnani/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SujalRamnani/DSA/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujalRamnani/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SujalRamnani/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SujalRamnani/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SujalRamnani/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SujalRamnani/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SujalRamnani/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SujalRamnani/DSA/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SujalRamnani/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SujalRamnani/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Counting
