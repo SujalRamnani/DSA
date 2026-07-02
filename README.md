@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SujalRamnani/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SujalRamnani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SujalRamnani/DSA/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/SujalRamnani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SujalRamnani/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SujalRamnani/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SujalRamnani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -150,8 +152,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SujalRamnani/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SujalRamnani/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SujalRamnani/DSA/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
