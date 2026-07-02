@@ -8,10 +8,12 @@ bool isAlnum(char ch){
         int n=s.length();
        int i=0,j=n-1;
        while(i<j){
-        while (i<j && !isAlnum(s[i])) i++;
-        while (i<j && !isAlnum(s[j])) j--;
-        if (tolower(s[i])!=tolower(s[j])) return false;
+    while (i<j && !isAlnum(s[i])) i++;
+       while (i<j && !isAlnum(s[j])) j--;
+         
+        if(tolower(s[i])!=tolower(s[j])) return false;
         i++;j--;
+        
        }
        return true;
     }
