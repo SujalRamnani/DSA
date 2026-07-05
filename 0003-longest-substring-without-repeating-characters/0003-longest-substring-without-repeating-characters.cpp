@@ -15,9 +15,7 @@ public:
             }
             int len=high-low+1;
             maxLen=max(maxLen,len);
-
             high++;
-
         }
         if (maxLen==INT_MIN) return 0;
         return maxLen;
