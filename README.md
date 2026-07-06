@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/SujalRamnani/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujalRamnani/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SujalRamnani/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SujalRamnani/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
