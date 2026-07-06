@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SujalRamnani/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SujalRamnani/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SujalRamnani/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/SujalRamnani/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SujalRamnani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SujalRamnani/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SujalRamnani/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/SujalRamnani/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujalRamnani/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
