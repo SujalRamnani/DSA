@@ -1,9 +1,9 @@
 class Solution {
 public:
 bool isCounter(char ch,char top){
-    if (ch=='}' && top=='{') return true;
-    if (ch==']' && top=='[') return true;
-    if (ch==')' && top=='(') return true;
+    if (top=='(' && ch==')') return true;
+    else if (top=='[' && ch==']') return true;
+    else if (top=='{' && ch=='}') return true;
     return false;
 }
     bool isValid(string s) {
@@ -13,9 +13,10 @@ bool isCounter(char ch,char top){
             char ch=s[i];
             if (ch=='(' || ch=='{' || ch=='[') st.push(ch);
             else{
-                if (st.size()==0) return false;
+                if (st.size()==0)  return false; //agar input ye ho ']' 
                 char top=st.top();
-                if (isCounter(ch,top)==true) st.pop();
+               
+                 if (isCounter(ch,top)==true) st.pop();
                 else return false;
             }
         }
