@@ -16,9 +16,10 @@ public:
         if (root1==NULL && root2!=NULL) return false;
         if (root1!=NULL && root2==NULL) return false;
         if (root1->val!=root2->val) return false;
-        bool r1=isSameTree(root1->left,root2->left);
-        bool r2=isSameTree(root1->right,root2->right);
-        if (r1==true && r2==true) return true;
+        
+        bool left=isSameTree(root1->left,  root2->left) ;
+        bool right=isSameTree(root1->right,root2->right);
+        if (left==true && right==true) return true;
         return false;
         
     }
