@@ -3,20 +3,15 @@ public:
     string removeDuplicates(string s, int k) {
         int n=s.length();
         stack<pair<char,int>> st;
-       
         for(int i=0;i<n;i++){
             char ch=s[i];
-            if (st.size()==0){
-                st.push({ch,1});
-            }
-            else if (st.top().first==ch) {
-                //agar upcoming character aur stack ka top same hai tab frequency badhunga
+            if (st.size()==0) st.push({ch,1});
+            else if (st.top().first==ch){
                 st.top().second++;
-                if(st.top().second == k) st.pop();
+                if (st.top().second==k) st.pop();
+                
             }
-            else{
-                st.push({ch,1});
-            }
+            else st.push({ch,1});
         }
         string ans="";
         while(st.size()!=0){
