@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/SujalRamnani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SujalRamnani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/SujalRamnani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SujalRamnani/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SujalRamnani/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujalRamnani/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SujalRamnani/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SujalRamnani/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SujalRamnani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SujalRamnani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SujalRamnani/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Monotonic Stack
 |  |
