@@ -15,31 +15,35 @@ public:
         int pos=1;
         ListNode* temp=head;
         ListNode* before=NULL;
+        ///1 ke baad se reverse karna hai toh 1 ko kahi store karna padega
         while(pos<left){
             before=temp;
             temp=temp->next;
             pos++;
-
         }
-        ///abb temp aagya left pe
-        //before usse pehle hai 
+        //loop tuta abb pos==left matlab temp aagya left pe aur 1 bhi before mein store hogya
+
+        //abb temp se matlab 2 se right tak reverse karna hai
+        int times=right-left+1;
         ListNode* curr=temp;
         ListNode* prev=NULL;
-        int times=right-left+1;
         while(times--){
             ListNode* next=curr->next;
             curr->next=prev;
             prev=curr;
             curr=next;
         }
-        ///abb curr aage poch gya 5 pe
-         temp->next=curr;
-       if (before){
-         before->next=prev;
-         return head;
-       }
-       
+        //curr aagya last node pe
+        //2 se 4 tak reverse hogya 
+        //abb pehle 2 ko last 5 se connect karo
+        temp->next=curr;
+        if (before){
+            before->next=prev;
+            return head;
+        }
         return prev;
+
+
         
     }
 };
