@@ -27,7 +27,7 @@ void reverse(ListNode* head,int times){
             }
             if (right){
                 ListNode* nextLeft=right->next;
-                reverse(left,2);
+                reverse(left,size);
                 if (prevLeft)   prevLeft->next=right;
                 prevLeft=left;
                 if (res==NULL) res=right;
