@@ -1,22 +1,22 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& arr) {
-        vector<int> even;
-        vector<int> odd;
-        for(int i=0;i<arr.size();i++){
-            if (arr[i]%2==0) even.push_back(arr[i]);
-            else odd.push_back(arr[i]);
+        int n=arr.size();
+        
+        vector<int> ans(n);
+        int i=0,j=ans.size()-1;
+        for(int k=0;k<arr.size();k++){
+            if (arr[k]%2!=0) {
+                ans[j]=arr[k];
+                j--;
+
+            }
+            else{
+                ans[i]=arr[k];
+                i++;
+            }
         }
-       int indx=0;
-       vector<int> ans(even.size()+odd.size(),0);
-       for(int i=0;i<even.size();i++) {
-        ans[indx]=even[i];
-        indx++;
-       }
-       for(int i=0;i<odd.size();i++){
-        ans[indx]=odd[i];
-        indx++;
-       }
-       return ans;  
+return ans;
+        
     }
 };
