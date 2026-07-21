@@ -8,7 +8,7 @@ public:
                 i++;
                 j--;
             }
-            else if (s[i]!=s[j]){
+            else{
                 char mini=min(s[i],s[j]);
                 s[i]=mini; //s[mini] ye index matlab ascii value dega aapan s[i] mein mini put kar rahe hai
                 s[j]=mini;
