@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SujalRamnani/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SujalRamnani/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SujalRamnani/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SujalRamnani/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujalRamnani/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SujalRamnani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/SujalRamnani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SujalRamnani/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SujalRamnani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SujalRamnani/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SujalRamnani/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SujalRamnani/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SujalRamnani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SujalRamnani/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SujalRamnani/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SujalRamnani/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Merge Sort
 |  |
 | ------- |
