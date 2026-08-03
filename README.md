@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujalRamnani/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SujalRamnani/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2000-reverse-prefix-of-word](https://github.com/SujalRamnani/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/SujalRamnani/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2000-reverse-prefix-of-word](https://github.com/SujalRamnani/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SujalRamnani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SujalRamnani/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SujalRamnani/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SujalRamnani/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/SujalRamnani/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
