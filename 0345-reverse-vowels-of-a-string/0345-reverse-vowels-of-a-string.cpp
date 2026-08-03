@@ -7,7 +7,7 @@ bool isVowel(char ch){
     string reverseVowels(string s) {
         int n=s.length();
         int i=0,j=n-1;
-      while(i<j){
+        while(i<=j){
             if (isVowel(s[i])==false) i++;
             else if (isVowel(s[j])==false) j--;
             else{
