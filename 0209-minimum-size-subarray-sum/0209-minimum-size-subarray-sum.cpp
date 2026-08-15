@@ -8,11 +8,12 @@ public:
         while(high<n){
             sum+=arr[high];
             while (sum>=target){
-                  minLen=min(minLen,high-low+1);
+                 minLen=min(minLen,high-low+1);
                 sum-=arr[low];
                 low++;
                
             }
+             
             
             high++;
 
