@@ -11,16 +11,19 @@
  */
 class Solution {
 public:
-void dfs(vector<int> &ans,TreeNode* root){
+  vector<int> ans;
+  void fun(TreeNode* root){
     if (root==NULL) return;
     ans.push_back(root->val);
-    dfs(ans,root->left);
-    dfs(ans,root->right);
-}
+    fun(root->left);
+    fun(root->right);
+
+  }
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        dfs(ans,root);
-        return ans;
+     
+       fun(root);
+       return ans;
+
         
     }
 };
