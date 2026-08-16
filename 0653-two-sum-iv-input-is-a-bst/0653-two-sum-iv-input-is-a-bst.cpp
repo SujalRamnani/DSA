@@ -11,30 +11,26 @@
  */
 class Solution {
 public:
-void inorder(TreeNode* root, vector<int> &temp){
-    ///Indorder traversal
-        //left root right
-        if (root==NULL) return ;
-     
-        inorder(root->left,temp);
-        temp.push_back(root->val);
-        inorder(root->right,temp);
+ vector<int> temp;
+void inorder(TreeNode* root){
+    if (root==NULL) return;
+    inorder(root->left);
+    temp.push_back(root->val);
+    inorder(root->right);
+    
 }
     bool findTarget(TreeNode* root, int k) {
+        ////inorder traversal karke vector mein dalo fir uspe two sum laga doo
+       
+        inorder(root);
         
-        vector<int> temp;
-        inorder(root,temp);
-
-        //abb two pointer on temp vector as it is already sorted
         int i=0,j=temp.size()-1;
+       
         while(i<j){
-            int sum=temp[i]+temp[j];
-            if (sum==k) return true;
-           else if (sum<k) i++;
-            else if (sum>k) j--;
-            
+            if (temp[i]+temp[j]==k) return true;
+            else if (temp[i]+temp[j]>k) j--;
+            else i++;
         }
-        return false;
-        
+          return false;
     }
 };
