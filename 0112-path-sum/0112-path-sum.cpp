@@ -11,18 +11,28 @@
  */
 class Solution {
 public:
-bool solve(TreeNode* root,int targetSum,int sum){
-if (root==NULL) return false;
-sum+=root->val;
-// Leaf node
- if (root->left == NULL && root->right == NULL) {
-            return (sum == targetSum);
-}
+bool res=false;
+void fun(TreeNode* root, int targetSum,int sum){
+    if (root==NULL) return;
+    
+    sum+=root->val;
 
-return solve(root->left, targetSum, sum) ||
-               solve(root->right, targetSum, sum);
+    ///agar root leaf hai toh check karo target ke barabr hai ya nhi
+    if (root->left==NULL && root->right==NULL){
+        if (sum==targetSum){
+            res=true;
+            return;
+        }
+    }
+
+    ///agar root leaf nhi hai toh uske right aur left mein call lagao
+    fun(root->left,targetSum,sum);
+    fun(root->right,targetSum,sum);
 }
     bool hasPathSum(TreeNode* root, int targetSum) {
-         return solve(root, targetSum, 0);
+       fun(root,targetSum,0);
+       return res;
+        
+        
     }
 };
