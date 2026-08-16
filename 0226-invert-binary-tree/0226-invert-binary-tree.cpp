@@ -14,6 +14,7 @@ public:
     TreeNode* invertTree(TreeNode* root) {
         if (root==NULL) return NULL;
         swap(root->left,root->right);
+        //pura swap hoga puri toli ek saath jayegi
         //abb unko bola tum apne bacho ke liye same chizz karo
         invertTree(root->left);
         invertTree(root->right);
