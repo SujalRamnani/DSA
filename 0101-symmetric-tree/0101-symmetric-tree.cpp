@@ -25,8 +25,10 @@ bool func(TreeNode* root1,TreeNode* root2){
 }
     bool isSymmetric(TreeNode* root) {
         
-      if(func(root->left,root->right)==true) return true;
-      return false;
+    //   if(func(root->left,root->right)==true) return true;
+    //   return false;
+
+    return func(root->left,root->right);
         
     }
 };
