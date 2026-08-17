@@ -11,22 +11,19 @@
  */
 class Solution {
 public:
-int height(TreeNode* root){
+int res=0;
+int fun(TreeNode* root){
     if (root==NULL) return 0;
-        if (root->left==NULL && root->right==NULL) return 0;  ///leaf node hai
-        int ans=1+max(height(root->left),height(root->right)); //1+leftSubtreeHeight+rightSubtreeHeight
-        return ans;
+    int left=fun(root->left);
+    int right=fun(root->right);
+    int sum=left+right;
+    res=max(res,sum);
+
+    return 1+max(left,right);
+
 }
     int diameterOfBinaryTree(TreeNode* root) {
-         if (root==NULL) return 0;
-        if (root->left==NULL && root->right==NULL) return 0;  ///leaf node hai
-        int leftSubtree=diameterOfBinaryTree(root->left);
-        int rightSubtree=diameterOfBinaryTree(root->right);
-        int mid=height(root->left)+height(root->right);
-        if (root->left!=NULL) mid++;
-        if (root->right!=NULL) mid++;
-        int ans=max(leftSubtree,max(mid,rightSubtree));
-        return ans;
-        
+        fun(root);
+        return res;   
     }
 };
