@@ -18,11 +18,11 @@ class Solution {
 public:
     Node* copyRandomList(Node* head) {
         if (head==NULL) return NULL;
-        Node* oldTemp=head->next;
         Node* newHead=new Node(head->val);
-        Node* newTemp=newHead;
-        unordered_map<Node*,Node*> mp;
-        mp[head]=newHead;
+        Node* oldTemp=head->next; //oldhead ka next hai
+         Node* newTemp=newHead;
+         unordered_map<Node*,Node*> mp;
+         mp[head]=newHead;
         while(oldTemp!=NULL){
             Node* copyNode=new Node(oldTemp->val);
             mp[oldTemp]=copyNode;
@@ -38,7 +38,7 @@ public:
             oldTemp=oldTemp->next;
             newTemp=newTemp->next;
         }
-        return newHead;
+return newHead;
 
     }
 };
