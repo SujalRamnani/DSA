@@ -9,26 +9,23 @@ public:
             if (mp.find(arr[i]-1)!=mp.end()) mp[arr[i]]=false;
         }
 
-        ///3rd loop isme unhi ke liye kaam karenge jinki value true hai
-        int maxStartPoint=0;
+        //abb jisme true hai uspe hi jayenge 
         int maxLen=0;
+        int startPoint=0;
         for(auto it:mp){
             int x=it.first;
             if (mp[x]==true){
                 int tempLen=1;
-                int tempStartPoint=x;
+                int tempStart=x;
 
-                while(mp.find(tempStartPoint+tempLen)!=mp.end()) tempLen++;
+                while(mp.contains(tempStart+tempLen)) tempLen++;
+
                 if (tempLen>maxLen){
-                    tempStartPoint=x;
+                    startPoint=tempStart;
                     maxLen=tempLen;
                 }
             }
         }
-
-         return maxLen;
-        
+        return maxLen;
     }
 };
-
-
