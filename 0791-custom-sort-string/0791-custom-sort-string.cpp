@@ -9,9 +9,11 @@ public:
             char ch=order[i];
             if (mp.find(ch)!=mp.end()){
                 int frequency=mp[ch];
-                while(frequency--){ ans.push_back(ch);
-                if (frequency==0) mp.erase(ch);
+                while(frequency!=0){ 
+                    ans.push_back(ch);
+                    frequency--;
                 }
+                if (frequency==0) mp.erase(ch);
             }
         }
 
