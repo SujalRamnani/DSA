@@ -1,25 +1,24 @@
 class Solution {
 public:
     string customSortString(string order, string s) {
+        string ans="";
         unordered_map<char,int> mp;
         for(int i=0;i<s.length();i++) mp[s[i]]++;
 
-        string ans="";
         for(int i=0;i<order.length();i++){
-            if(mp.find(order[i])!=mp.end()){
-                int freq=mp[order[i]];
-                while(freq--) ans.push_back(order[i]);
-
-                mp.erase(order[i]);
-            } 
-        }
-
-        for(auto it:mp){
-            while(it.second--){
-                ans.push_back(it.first);
+            char ch=order[i];
+            if (mp.find(ch)!=mp.end()){
+                int frequency=mp[ch];
+                while(frequency--){ ans.push_back(ch);
+                if (frequency==0) mp.erase(ch);
+                }
             }
         }
-return ans;
 
+         ////jo character map mein bach gya usko add karo
+         for(auto it:mp){
+                while(it.second--) ans.push_back(it.first); 
+         }
+        return ans;
     }
 };
