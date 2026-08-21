@@ -1,27 +1,26 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        ///ase longest substring batao jisme koi bhi element repeat na ho
-        //longest substring with k=1 unique//
-        int n=s.length();
-        int maxLen=0;
+        int n=s.length(); 
+        ///variable length sw ka sawal hai
         int low=0,high=0;
+        int maxLen=0;
         unordered_map<char,int> mp;
         while(high<n){
             mp[s[high]]++;
-            while(mp[s[high]]>1){ //koi bhi character ke frequency agar ek se jyada hue matlab vo galat info hai
+            ///character repeat nhi hona chahiye
+
+            while(mp[s[high]]>1){
+                
                 mp[s[low]]--;
                 if (mp[s[low]]==0) mp.erase(s[low]);
-                low++;
-
+                 low++;
             }
-            if(mp[s[high]]==1){
-                int len=high-low+1;
-                maxLen=max(maxLen,len);
-            }
-            high++;
-            
+            int len=high-low+1;
+            maxLen=max(maxLen,len);
+         high++;
         }
         return maxLen;
+        
     }
 };
