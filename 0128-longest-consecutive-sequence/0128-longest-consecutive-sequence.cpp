@@ -5,11 +5,11 @@ public:
         unordered_map<int,bool> mp;
         for(int i=0;i<n;i++) mp[arr[i]]=true;
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++) {
             if (mp.find(arr[i]-1)!=mp.end()) mp[arr[i]]=false;
         }
-
-        //abb jisme true hai uspe hi jayenge 
+        
+        ///jo true hai unka hi abb kaam hai
         int maxLen=0;
         int startPoint=0;
         for(auto it:mp){
@@ -21,11 +21,13 @@ public:
                 while(mp.contains(tempStart+tempLen)) tempLen++;
 
                 if (tempLen>maxLen){
-                    startPoint=tempStart;
+                    tempStart=startPoint;
                     maxLen=tempLen;
                 }
             }
+
         }
         return maxLen;
+        
     }
 };
