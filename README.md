@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SujalRamnani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SujalRamnani/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2574-left-and-right-sum-differences](https://github.com/SujalRamnani/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3731-find-missing-elements](https://github.com/SujalRamnani/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SujalRamnani/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SujalRamnani/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SujalRamnani/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/SujalRamnani/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
 | ------- |
