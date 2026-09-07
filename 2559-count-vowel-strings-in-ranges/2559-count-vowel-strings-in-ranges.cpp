@@ -1,0 +1,31 @@
+class Solution {
+public:
+bool isVowel(char ch){
+    if (ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u') return true;
+    return false;
+}
+    vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
+      int sum=0;
+        int Q=queries.size();
+          vector<int> ans(Q);
+          vector<int> cumSum(words.size());
+          for(int i=0;i<words.size();i++){
+            if (isVowel(words[i][0]) && isVowel(words[i].back())) sum++;
+
+            cumSum[i]=sum;
+          }
+
+          for(int i=0;i<queries.size();i++){
+            int l=queries[i][0];
+            int r=queries[i][1];
+
+            
+            if (l>0)    ans[i]=abs(cumSum[r]-cumSum[l-1]);
+            else ans[i]=abs(cumSum[r]-0);
+            
+            
+          }
+          return ans;
+
+    }
+};
