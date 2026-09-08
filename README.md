@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SujalRamnani/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SujalRamnani/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SujalRamnani/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SujalRamnani/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SujalRamnani/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SujalRamnani/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SujalRamnani/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SujalRamnani/DSA/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SujalRamnani/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
