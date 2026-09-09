@@ -24,7 +24,10 @@ public:
         }
 
         if(i==j){
-            if(capA<plants[i] && capB<plants[j]) refilA++;
+            if(capA<plants[i] && capB<plants[j]) {
+                if (capA>=capB) refilA++;
+                else refilB++;
+            }
         }
         return refilA+refilB;
         
