@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SujalRamnani/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujalRamnani/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/SujalRamnani/DSA/tree/master/0556-next-greater-element-iii) |
 | [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/SujalRamnani/DSA/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SujalRamnani/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SujalRamnani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/SujalRamnani/DSA/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SujalRamnani/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SujalRamnani/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SujalRamnani/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SujalRamnani/DSA/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/SujalRamnani/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SujalRamnani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SujalRamnani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
