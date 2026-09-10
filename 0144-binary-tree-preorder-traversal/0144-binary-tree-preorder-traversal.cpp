@@ -10,17 +10,18 @@
  * };
  */
 class Solution {
-public:
- vector<int> ans;
- void fun(TreeNode* root){
-    if(root==NULL) return;
+public: 
+vector<int> ans;
+void help(TreeNode* root){
+    if (root==NULL) return;
     ans.push_back(root->val);
-    fun(root->left);
-    fun(root->right);
- }
-
+    help(root->left);
+    help(root->right);
+}
     vector<int> preorderTraversal(TreeNode* root) {
-        fun(root);
+        help(root);
         return ans;
+
+        
     }
 };
