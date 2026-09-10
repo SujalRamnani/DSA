@@ -12,14 +12,14 @@
 class Solution {
 public:
 vector<int> ans;
-void fun(TreeNode* root){
+void help(TreeNode* root){
     if (root==NULL) return;
-    fun(root->left);
-    fun(root->right);
+    help(root->left);
+    help(root->right);
     ans.push_back(root->val);
 }
     vector<int> postorderTraversal(TreeNode* root) {
-        fun(root);
+        help(root);
         return ans;
         
     }
