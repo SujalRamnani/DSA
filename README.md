@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/SujalRamnani/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/SujalRamnani/DSA/tree/master/2614-prime-in-diagonal) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3033-modify-the-matrix](https://github.com/SujalRamnani/DSA/tree/master/3033-modify-the-matrix) |
 | [3731-find-missing-elements](https://github.com/SujalRamnani/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SujalRamnani/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/SujalRamnani/DSA/tree/master/2614-prime-in-diagonal) |
+| [3033-modify-the-matrix](https://github.com/SujalRamnani/DSA/tree/master/3033-modify-the-matrix) |
 ## Simulation
 |  |
 | ------- |
