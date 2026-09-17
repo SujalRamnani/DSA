@@ -1,12 +1,12 @@
 class Solution {
 public:
 int maxx(vector<vector<int>>& arr,int j,int i){
+    ///column const aur row variable//
     int maxi=-1;
     for( i=0;i<arr.size();i++){
-        if (maxi<arr[i][j]) maxi=arr[i][j];
+        if (arr[i][j]>maxi) maxi=arr[i][j];
     }
     return maxi;
-   
 }
     vector<vector<int>> modifiedMatrix(vector<vector<int>>& arr) {
         int m=arr.size();
