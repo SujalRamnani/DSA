@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SujalRamnani/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SujalRamnani/DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/SujalRamnani/DSA/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/SujalRamnani/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/SujalRamnani/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SujalRamnani/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SujalRamnani/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/SujalRamnani/DSA/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/SujalRamnani/DSA/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SujalRamnani/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/SujalRamnani/DSA/tree/master/2614-prime-in-diagonal) |
 | [3033-modify-the-matrix](https://github.com/SujalRamnani/DSA/tree/master/3033-modify-the-matrix) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SujalRamnani/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/SujalRamnani/DSA/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SujalRamnani/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2105-watering-plants-ii](https://github.com/SujalRamnani/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SujalRamnani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
