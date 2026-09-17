@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SujalRamnani/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SujalRamnani/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1329-sort-the-matrix-diagonally](https://github.com/SujalRamnani/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SujalRamnani/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SujalRamnani/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SujalRamnani/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SujalRamnani/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SujalRamnani/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1329-sort-the-matrix-diagonally](https://github.com/SujalRamnani/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/SujalRamnani/DSA/tree/master/3731-find-missing-elements) |
 ## Merge Sort
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SujalRamnani/DSA/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SujalRamnani/DSA/tree/master/0867-transpose-matrix) |
+| [1329-sort-the-matrix-diagonally](https://github.com/SujalRamnani/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/SujalRamnani/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/SujalRamnani/DSA/tree/master/2614-prime-in-diagonal) |
 | [3033-modify-the-matrix](https://github.com/SujalRamnani/DSA/tree/master/3033-modify-the-matrix) |
