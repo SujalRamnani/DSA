@@ -1,18 +1,35 @@
+// class Solution {
+// public:
+// int helper(int n,vector<int> &dp){
+//     if (n==0) return 0;
+//     if (n==1) return 1;
+//     if (n==2) return 1;
+//     if (dp[n]!=0) return dp[n];
+//     int ans=helper(n-1,dp)+helper(n-2,dp)+helper(n-3,dp); //current element previous 3 element ka sum hai 
+//     dp[n]=ans;
+//     return ans;
+// }
+//     int tribonacci(int n) {
+//         vector<int> dp(n+1,0);
+//         int ans=helper(n,dp);
+//         return ans;
+        
+//     }
+// };
+
+///tabulation method////
 class Solution {
 public:
-int helper(int n,vector<int> &dp){
-    if (n==0) return 0;
-    if (n==1) return 1;
-    if (n==2) return 1;
-    if (dp[n]!=0) return dp[n];
-    int ans=helper(n-1,dp)+helper(n-2,dp)+helper(n-3,dp); //current element previous 3 element ka sum hai 
-    dp[n]=ans;
-    return ans;
-}
     int tribonacci(int n) {
+        if (n==0) return 0;
+        if (n==1 ) return 1;
+        if (n==2) return 1;
         vector<int> dp(n+1,0);
-        int ans=helper(n,dp);
-        return ans;
+        dp[0]=0;
+        dp[1]=1;
+        dp[2]=1;
+        for(int i=3;i<=n;i++) dp[i]=dp[i-1]+dp[i-2]+dp[i-3];
+        return dp[n];
         
     }
 };
