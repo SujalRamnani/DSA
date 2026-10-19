@@ -1,9 +1,18 @@
 class Solution {
 public:
+vector<int> dp;
+int fibo(int n){
+    
+    if (n==0) return 0;
+    if (n==1) return 1;
+    if (dp[n]!=0) return dp[n]; ///0 nhi hai koi value hai toh usse ko return kardo
+    int ans=fibo(n-1)+fibo(n-2);
+    dp[n]=ans; ///dp mein ans ko store kardo///
+    return ans;
+}
     int fib(int n) {
-        if (n<=1) return n;
-        return fib(n-1)+fib(n-2);
-
-        
+    dp = vector<int>(n + 1, 0);  // Yahan initialize karo
+        int ans=fibo(n);
+        return ans;  
     }
 };
