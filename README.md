@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SujalRamnani/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SujalRamnani/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SujalRamnani/DSA/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/SujalRamnani/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SujalRamnani/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/SujalRamnani/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0088-merge-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SujalRamnani/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SujalRamnani/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SujalRamnani/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SujalRamnani/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SujalRamnani/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SujalRamnani/DSA/tree/master/0152-maximum-product-subarray) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SujalRamnani/DSA/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/SujalRamnani/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SujalRamnani/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/SujalRamnani/DSA/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
