@@ -1,17 +1,17 @@
 class Solution {
 public:
-vector<int> dp;
-int fibo(int n){
+int helper(int n,vector<int> &dp){
     if (n==0) return 0;
     if (n==1) return 1;
+    if (n==2) return 1;
     if (dp[n]!=0) return dp[n];
-    int ans=fibo(n-1)+fibo(n-2);
+    int ans=helper(n-1,dp)+helper(n-2,dp);
     dp[n]=ans;
     return ans;
 }
     int fib(int n) {
-        dp=vector<int>(n+1,0);
-        int ans=fibo(n);
+        vector<int> dp(n+1,0);
+        int ans=helper(n,dp);
         return ans;
         
     }
