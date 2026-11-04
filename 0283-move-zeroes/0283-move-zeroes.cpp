@@ -4,9 +4,9 @@ public:
         int n=arr.size();
         int i=-1;
         for(int j=0;j<n;j++){
-            if (arr[j]==0){
+            if (arr[j]==0 ){
                 i=j;
-                break;
+                break; //first zero mil gya
             }
         }
         if (i<0) return;
