@@ -1,20 +1,19 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        int n=height.size();
-        int maxArea=0;
+    int maxArea(vector<int>& arr) {
+        int n=arr.size();
+        int maxAmount=0;
         int i=0,j=n-1;
+        //max volume tab hota hai jab height minimum ho aur width max ho
         while(i<j){
             int width=j-i;
-            int h=min(height[i],height[j]);
-            int area=width*h;
-            maxArea=max(maxArea,area);
-
-            if (height[i]<height[j]) i++;
-            else j--;
-
+             int height=min(arr[i],arr[j]);
+              int area=width*height;
+            maxAmount=max(maxAmount,area);
+            if (arr[i]<arr[j]) i++;
+            else j--; 
         }
-        return maxArea;
+        return maxAmount;
         
     }
 };
