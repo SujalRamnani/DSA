@@ -8,11 +8,11 @@ public:
         else if (arr[i]+arr[j]<target) i++;
         else{
             ans.push_back({-target,arr[i],arr[j]});
-
-            while(i<j && arr[i]==arr[i-1]) i++;
-            while(i<j && arr[j]==arr[j+1]) j--;
             i++;
             j--;
+            while(i<j && arr[i]==arr[i-1]) i++;
+            while(i<j && arr[j]==arr[j+1]) j--;
+           
             
         }
     }
