@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SujalRamnani/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SujalRamnani/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SujalRamnani/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/SujalRamnani/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SujalRamnani/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SujalRamnani/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SujalRamnani/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujalRamnani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SujalRamnani/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
