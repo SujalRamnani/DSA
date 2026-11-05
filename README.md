@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SujalRamnani/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujalRamnani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/SujalRamnani/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujalRamnani/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SujalRamnani/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SujalRamnani/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SujalRamnani/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SujalRamnani/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SujalRamnani/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujalRamnani/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SujalRamnani/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SujalRamnani/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SujalRamnani/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SujalRamnani/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -606,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SujalRamnani/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
