@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SujalRamnani/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SujalRamnani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/SujalRamnani/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/SujalRamnani/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SujalRamnani/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/SujalRamnani/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SujalRamnani/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SujalRamnani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/SujalRamnani/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SujalRamnani/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SujalRamnani/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/SujalRamnani/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SujalRamnani/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2506-count-pairs-of-similar-strings](https://github.com/SujalRamnani/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/SujalRamnani/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SujalRamnani/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SujalRamnani/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2506-count-pairs-of-similar-strings](https://github.com/SujalRamnani/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 ## Stack
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SujalRamnani/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SujalRamnani/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/SujalRamnani/DSA/tree/master/0832-flipping-an-image) |
+| [2506-count-pairs-of-similar-strings](https://github.com/SujalRamnani/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 ## Math
 |  |
 | ------- |
