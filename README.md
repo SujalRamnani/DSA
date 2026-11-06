@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SujalRamnani/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/SujalRamnani/DSA/tree/master/3033-modify-the-matrix) |
+| [3295-report-spam-message](https://github.com/SujalRamnani/DSA/tree/master/3295-report-spam-message) |
 | [3731-find-missing-elements](https://github.com/SujalRamnani/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SujalRamnani/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SujalRamnani/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3295-report-spam-message](https://github.com/SujalRamnani/DSA/tree/master/3295-report-spam-message) |
 | [3731-find-missing-elements](https://github.com/SujalRamnani/DSA/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/SujalRamnani/DSA/tree/master/2506-count-pairs-of-similar-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/SujalRamnani/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3295-report-spam-message](https://github.com/SujalRamnani/DSA/tree/master/3295-report-spam-message) |
 ## Binary Search
 |  |
 | ------- |
