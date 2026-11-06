@@ -1,24 +1,20 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n=s.length(); 
-        ///variable length sw ka sawal hai
+        //variable length ke string ho sakte hai ye//
+        int n=s.length();
         int low=0,high=0;
-        int maxLen=0;
         unordered_map<char,int> mp;
+        int maxLen=0;
         while(high<n){
             mp[s[high]]++;
-            ///character repeat nhi hona chahiye
-
             while(mp[s[high]]>1){
-                
                 mp[s[low]]--;
-                if (mp[s[low]]==0) mp.erase(s[low]);
-                 low++;
+                low++;
             }
             int len=high-low+1;
             maxLen=max(maxLen,len);
-         high++;
+            high++;
         }
         return maxLen;
         
