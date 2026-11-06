@@ -9,10 +9,12 @@ public:
         while(high<n){
             sum+=arr[high];
             while(sum>=target){
-                  int len=high-low+1;
-            minLen=min(len,minLen);
+                  
                 sum-=arr[low];
                 low++;
+            }
+            if (sum==target){
+               
             }
 
           
