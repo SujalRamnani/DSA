@@ -9,6 +9,7 @@ public:
             mp[s[high]]++;
             while(mp[s[high]]>1){
                 mp[s[low]]--;
+                if (mp[s[low]]==0) mp.erase(s[low]);
                 low++;
             }
             int len=high-low+1;
