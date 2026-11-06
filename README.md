@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/SujalRamnani/DSA/tree/master/2614-prime-in-diagonal) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SujalRamnani/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SujalRamnani/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3024-type-of-triangle](https://github.com/SujalRamnani/DSA/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/SujalRamnani/DSA/tree/master/3033-modify-the-matrix) |
 | [3295-report-spam-message](https://github.com/SujalRamnani/DSA/tree/master/3295-report-spam-message) |
 | [3731-find-missing-elements](https://github.com/SujalRamnani/DSA/tree/master/3731-find-missing-elements) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/SujalRamnani/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/SujalRamnani/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3024-type-of-triangle](https://github.com/SujalRamnani/DSA/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/SujalRamnani/DSA/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/SujalRamnani/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SujalRamnani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/SujalRamnani/DSA/tree/master/2614-prime-in-diagonal) |
+| [3024-type-of-triangle](https://github.com/SujalRamnani/DSA/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -625,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SujalRamnani/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/SujalRamnani/DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
