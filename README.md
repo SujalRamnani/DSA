@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SujalRamnani/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SujalRamnani/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1200-minimum-absolute-difference](https://github.com/SujalRamnani/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SujalRamnani/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SujalRamnani/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/SujalRamnani/DSA/tree/master/1329-sort-the-matrix-diagonally) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SujalRamnani/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/SujalRamnani/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/SujalRamnani/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1329-sort-the-matrix-diagonally](https://github.com/SujalRamnani/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/SujalRamnani/DSA/tree/master/1710-maximum-units-on-a-truck) |
