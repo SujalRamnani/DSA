@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SujalRamnani/DSA/tree/master/1768-merge-strings-alternately) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/SujalRamnani/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SujalRamnani/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SujalRamnani/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujalRamnani/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SujalRamnani/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/SujalRamnani/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SujalRamnani/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SujalRamnani/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/SujalRamnani/DSA/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SujalRamnani/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/SujalRamnani/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2105-watering-plants-ii](https://github.com/SujalRamnani/DSA/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SujalRamnani/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SujalRamnani/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SujalRamnani/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/SujalRamnani/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SujalRamnani/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/SujalRamnani/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/SujalRamnani/DSA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/SujalRamnani/DSA/tree/master/0942-di-string-match) |
 | [1710-maximum-units-on-a-truck](https://github.com/SujalRamnani/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SujalRamnani/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SujalRamnani/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SujalRamnani/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -641,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/SujalRamnani/DSA/tree/master/3024-type-of-triangle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SujalRamnani/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
